@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **I think I'm in love with...**
 
-<img src="https://media2.giphy.com/media/GeimqsH0TLDt4tScGw/giphy.gif" width="40" height="40" />
+<img src="https://media2.giphy.com/media/GeimqsH0TLDt4tScGw/giphy.gif" width="100" height="100" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
