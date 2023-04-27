@@ -7,7 +7,7 @@
 
 - 📫 Reach me at **tzenyangc@gmail.com**
 
-- ⚡ **I think I'm in love with...**
+- ⚡ **I think I'm in love with... 😉**
 
 
 <h3 align="center">Languages and Tools:</h3>
