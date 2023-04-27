@@ -16,4 +16,4 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dubronc&show_icons=true&theme=tokyonight&text_color=3080f7&hide_border=true&locale=en" alt="dubronc" /></p>
 </br>
 
-<p align="center"><i>"Your existence is enough."</i></p>
+<p align="center"><i>"Is enough ever enough?"</i></p>
